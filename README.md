@@ -7,7 +7,6 @@
 <ul align="left" style="list-style-type:none; padding-left:0;">
   <li>Discord Application Developer</li>
   <li>Front-End Developer focused on modern, high-performance interfaces</li>
-  <li>Back-End Web Developer specialized in building robust architectures and RESTful APIs</li>
 </ul>
 
 <h2 align="left">Principais linguagens e tecnologias que utilizo</h2>
